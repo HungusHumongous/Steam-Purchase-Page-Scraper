@@ -1,0 +1,17 @@
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\bin\Debug\net6.0\scraper.exe
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\bin\Debug\net6.0\scraper.deps.json
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\bin\Debug\net6.0\scraper.runtimeconfig.json
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\bin\Debug\net6.0\scraper.dll
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\bin\Debug\net6.0\scraper.pdb
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.csproj.AssemblyReference.cache
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.AssemblyInfoInputs.cache
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.AssemblyInfo.cs
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.csproj.CoreCompileInputs.cache
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.csproj.CopyComplete
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.dll
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\refint\scraper.dll
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.pdb
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\scraper.genruntimeconfig.cache
+C:\Users\Hungus\Desktop\Programming_Shite\Projects\Steam Purchase Scraper\scraper\scraper\obj\Debug\net6.0\ref\scraper.dll

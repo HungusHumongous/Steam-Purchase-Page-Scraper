@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sv2GfB/51h8e3rA2ycibTQzHJ2eZQp/VRl1K1e7rY9N2ZpMWe02WGtcPxokW+sp/aQ2Xyto26Tygq08iaYmqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hungus\\Desktop\\Programming_Shite\\Projects\\Steam Purchase Scraper Release\\scraper\\scraper\\scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hungus\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}

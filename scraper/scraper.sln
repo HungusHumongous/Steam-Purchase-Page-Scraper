@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "scraper", "scraper\scraper.csproj", "{B81B6803-F2E9-4C21-9C9A-416492646449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		test|Any CPU = test|Any CPU
+		test|x64 = test|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.Debug|x64.ActiveCfg = Debug|x64
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.Debug|x64.Build.0 = Debug|x64
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.Release|x64.ActiveCfg = Release|x64
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.Release|x64.Build.0 = Release|x64
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.test|Any CPU.ActiveCfg = test|Any CPU
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.test|Any CPU.Build.0 = test|Any CPU
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.test|x64.ActiveCfg = test|x64
+		{B81B6803-F2E9-4C21-9C9A-416492646449}.test|x64.Build.0 = test|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC36D2B4-642B-4232-A42A-E702858C868C}
+	EndGlobalSection
+EndGlobal
